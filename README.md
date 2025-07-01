@@ -20,7 +20,7 @@
 - Easily observe the counter state through the LED indicators.
 - Optimized for a small, easy-to-assemble printed circuit board.
 - Ideal for learning and demonstrating binary counting and digital electronics basics.
-- Uses standard logic ICs and LEDs for efficient operation.
+- Uses standard logic Transistors and LEDs for efficient operation.
 
 ## BOM
 - 2  Battery holder
